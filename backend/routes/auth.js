@@ -115,7 +115,7 @@ router.post("/login", (req, res) => {
     return res.status(200).json({
       success: true,
       message: "Login successful.",
-      admin: {
+      user: {
         id: admin.id,
         username: admin.username,
         email: admin.email,
