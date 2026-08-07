@@ -4,6 +4,11 @@ Next.js web application for the Faculty Evaluation System. Students, School Head
 
 ---
 
+Vercel Domain:
+Admin : https://frontend-dxnnnns-projects.vercel.app/admin/login
+User  : https://frontend-dxnnnns-projects.vercel.app/
+
+
 ## Tech Stack
 
 | Layer       | Technology                          |
